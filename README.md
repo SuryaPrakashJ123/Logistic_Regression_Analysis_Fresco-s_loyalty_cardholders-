@@ -136,6 +136,4 @@ This project analyzes weekly transaction data from Fresco Supermarket, one of th
   <li>Further improvements could involve testing ensemble models or time-series features as more data becomes available.</li>
 </ul>
 
-<hr>
-<h4>Prepared by: [Your Name]</h4>
-<h4>Date: [Insert date]</h4>
+
